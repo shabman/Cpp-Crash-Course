@@ -7,7 +7,7 @@ class GameMessages
     public:
         GameMessages()
         {
-            cout << "Math Game! By Purple Guy#1753!" << endl;
+            cout << "Math Game! By shab#1753" << endl;
         }
         void startMessage()
         {
